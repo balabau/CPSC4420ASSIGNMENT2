@@ -8,4 +8,6 @@ The code A-G file has the Python code that I was adjusting parameters for A-G.
 
 The code H file has the Python code for H. 
 
+The video file shows the code used in G producing output.
+
 The Python code was written in Colab, if that is helpful. It runs there.
